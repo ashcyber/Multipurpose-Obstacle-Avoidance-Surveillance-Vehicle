@@ -249,8 +249,6 @@ void left_car()
   rightMotor1.run(RELEASE);
 }
 
-
-
 void stop_car ()
 {
   leftMotor1.run(RELEASE);
